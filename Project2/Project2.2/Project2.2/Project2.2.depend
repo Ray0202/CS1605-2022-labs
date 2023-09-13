@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1657695551 source:e:\lessons\cs1605程序设计实践\project2\project2.2\project2.2\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<string>
+
